@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calendar F1</string>
+    <string name="title_race_detail">Race Detail</string>
+    <string name="practice1">Practice 1: </string>
+    <string name="practice2">Practice 2: </string>
+    <string name="practice3">Practice 3: </string>
+    <string name="qualy">Qualy: </string>
+    <string name="calendar">Race: </string>
+    <string name="title_calendar_list">Events</string>
+    <string name="title_calendar_detail">Calendar Detail</string>
+</resources>
